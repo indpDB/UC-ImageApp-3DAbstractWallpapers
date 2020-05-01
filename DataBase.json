@@ -1,7 +1,7 @@
 [
 	{
 		"Headers": "collection1",
-		"HeadersThumbs": "",
+		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/1.jpg",
 		"HeadersDisplay": "Yes",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/1.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/HD/1.jpg",
@@ -24,7 +24,7 @@
 	},
 	{
 		"Headers": "collection2",
-		"HeadersThumbs": "",
+		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C2/TH/1.jpg",
 		"HeadersDisplay": "Yes",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/2.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/HD/2.jpg",
@@ -47,7 +47,7 @@
 	},
 	{
 		"Headers": "collection3",
-		"HeadersThumbs": "",
+		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C3/TH/1.jpg",
 		"HeadersDisplay": "Yes",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/3.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/HD/3.jpg",
@@ -70,7 +70,7 @@
 	},
 	{
 		"Headers": "collection4",
-		"HeadersThumbs": "",
+		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C4/TH/1.jpg",
 		"HeadersDisplay": "Yes",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/4.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/HD/4.jpg",
@@ -93,7 +93,7 @@
 	},
 	{
 		"Headers": "collection5",
-		"HeadersThumbs": "",
+		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C5/TH/1.jpg",
 		"HeadersDisplay": "Yes",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/5.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/HD/5.jpg",
@@ -116,7 +116,7 @@
 	},
 	{
 		"Headers": "collection6",
-		"HeadersThumbs": "",
+		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C6/TH/1.jpg",
 		"HeadersDisplay": "Yes",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/6.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/HD/6.jpg",
@@ -139,7 +139,7 @@
 	},
 	{
 		"Headers": "collection7",
-		"HeadersThumbs": "",
+		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C7/TH/1.jpg",
 		"HeadersDisplay": "Yes",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/7.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/HD/7.jpg",
@@ -162,7 +162,7 @@
 	},
 	{
 		"Headers": "collection8",
-		"HeadersThumbs": "",
+		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C8/TH/1.jpg",
 		"HeadersDisplay": "Yes",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/8.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/HD/8.jpg",
@@ -185,7 +185,7 @@
 	},
 	{
 		"Headers": "collection9",
-		"HeadersThumbs": "",
+		"HeadersThumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C9/TH/1.jpg",
 		"HeadersDisplay": "Yes",
 		"collection1Thumbs": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/TH/9.jpg",
 		"collection1HD": "https://raw.githubusercontent.com/indpDB/UC-ImageApp-3DAbstractWallpapers/master/C1/HD/9.jpg",
